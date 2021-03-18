@@ -1,0 +1,32 @@
+C:\Users\langzhou\source\repos\Final Project\Final Project\bin\Release\Final Project.exe.config
+C:\Users\langzhou\source\repos\Final Project\Final Project\bin\Release\Final Project.exe
+C:\Users\langzhou\source\repos\Final Project\Final Project\bin\Release\Final Project.pdb
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final Project.csprojAssemblyReference.cache
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final_Project.About.resources
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final_Project.Average.resources
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final_Project.Average_Result.resources
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final_Project.Convert.resources
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final_Project.Main.resources
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final_Project.Precision.resources
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final_Project.Properties.Resources.resources
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final Project.csproj.GenerateResource.cache
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final Project.exe
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final Project.pdb
+C:\Users\langzhou\source\repos\Final Project\Final Project\obj\Release\Final_Project.User_Manual.resources
+E:\Final Project\Final Project\bin\Release\Final Project.exe.config
+E:\Final Project\Final Project\bin\Release\Final Project.exe
+E:\Final Project\Final Project\bin\Release\Final Project.pdb
+E:\Final Project\Final Project\obj\Release\Final Project.csprojAssemblyReference.cache
+E:\Final Project\Final Project\obj\Release\Final_Project.About.resources
+E:\Final Project\Final Project\obj\Release\Final_Project.Average.resources
+E:\Final Project\Final Project\obj\Release\Final_Project.Average_Result.resources
+E:\Final Project\Final Project\obj\Release\Final_Project.Convert.resources
+E:\Final Project\Final Project\obj\Release\Final_Project.Main.resources
+E:\Final Project\Final Project\obj\Release\Final_Project.Precision.resources
+E:\Final Project\Final Project\obj\Release\Final_Project.Properties.Resources.resources
+E:\Final Project\Final Project\obj\Release\Final_Project.User_Manual.resources
+E:\Final Project\Final Project\obj\Release\Final Project.csproj.GenerateResource.cache
+E:\Final Project\Final Project\obj\Release\Final Project.csproj.CoreCompileInputs.cache
+E:\Final Project\Final Project\obj\Release\Final Project.exe
+E:\Final Project\Final Project\obj\Release\Final Project.pdb
